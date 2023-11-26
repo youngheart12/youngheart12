@@ -10,6 +10,5 @@ I'm a Frontend Developer at [Innovaccer](https://www.innovaccer.com) with over 3
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youngheart12&show_icons=true&locale=en&layout=compact" alt="youngheart12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngheart12&show_icons=true&locale=en" alt="youngheart12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngheart12&" alt="youngheart12" /></p>
