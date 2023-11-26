@@ -1,11 +1,9 @@
-Hi there 👋 I'm a Frontend Developer at [Innovaccer](https://www.innovaccer.com) with over 3 years of extensive hands on experience with **Web development** and **Web optimization** at various companies like [Inviz](https://www.inviz.ai/) and [Loopr](https://loopr.ai/).
+<h1>Hi there 👋 </h1>
+
+I'm a Frontend Developer at [Innovaccer](https://www.innovaccer.com) with over 3 years of extensive hands on experience with **Web development** and **Web optimization** at various companies like [Inviz](https://www.inviz.ai/) and [Loopr](https://loopr.ai/).I specialize in creating a visually stunning intuitive and user friendly web apps. From simple web apps to complex web apps of healthcare and fintech.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youngheart12&label=Profile%20views&color=0e75b6&style=flat" alt="youngheart12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youngheart12" alt="youngheart12" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: dilipkumarmahto71@gmail.com</h3>
 <p align="left">
 </p>
 
