@@ -1,9 +1,7 @@
 <h1>Hi there 👋 </h1>
 
-I'm a Frontend Developer at [Innovaccer](https://www.innovaccer.com) with over 3 years of extensive hands on experience with **Web development** and **Web optimization** at various companies like [Inviz](https://www.inviz.ai/) and [Loopr](https://loopr.ai/).I specialize in creating a visually stunning intuitive and user friendly web apps. From simple web apps to complex web apps of healthcare and fintech.
+I'm a Frontend Developer at [Innovaccer](https://www.innovaccer.com) with over 3 years of extensive hands on experience with **Web development** and **Web optimization** at various companies like [Inviz](https://www.inviz.ai/) and [Loopr](https://loopr.ai/).I specialize in creating a visually stunning, intuitive and user friendly web apps. From simple web apps to complex web apps of healthcare and fintech.I have experience building product from scratch and have experience building SaaS and PaaS. 
 
-
-<h3 align="left">Connect with me: dilipkumarmahto71@gmail.com</h3>
 <p align="left">
 </p>
 
